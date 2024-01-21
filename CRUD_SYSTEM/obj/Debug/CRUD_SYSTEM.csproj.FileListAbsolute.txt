@@ -1,0 +1,10 @@
+C:\Users\joffe\source\repos\CRUD_SYSTEM\CRUD_SYSTEM\bin\Debug\CRUD_SYSTEM.exe.config
+C:\Users\joffe\source\repos\CRUD_SYSTEM\CRUD_SYSTEM\bin\Debug\CRUD_SYSTEM.exe
+C:\Users\joffe\source\repos\CRUD_SYSTEM\CRUD_SYSTEM\bin\Debug\CRUD_SYSTEM.pdb
+C:\Users\joffe\source\repos\CRUD_SYSTEM\CRUD_SYSTEM\obj\Debug\CRUD_SYSTEM.csproj.AssemblyReference.cache
+C:\Users\joffe\source\repos\CRUD_SYSTEM\CRUD_SYSTEM\obj\Debug\CRUD_SYSTEM.Form1.resources
+C:\Users\joffe\source\repos\CRUD_SYSTEM\CRUD_SYSTEM\obj\Debug\CRUD_SYSTEM.Properties.Resources.resources
+C:\Users\joffe\source\repos\CRUD_SYSTEM\CRUD_SYSTEM\obj\Debug\CRUD_SYSTEM.csproj.GenerateResource.cache
+C:\Users\joffe\source\repos\CRUD_SYSTEM\CRUD_SYSTEM\obj\Debug\CRUD_SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\joffe\source\repos\CRUD_SYSTEM\CRUD_SYSTEM\obj\Debug\CRUD_SYSTEM.exe
+C:\Users\joffe\source\repos\CRUD_SYSTEM\CRUD_SYSTEM\obj\Debug\CRUD_SYSTEM.pdb
